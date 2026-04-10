@@ -1,4 +1,4 @@
-# Cloud Computing — Wine Quality Prediction with PySpark & AWS
+# Wine Quality Prediction with PySpark & AWS — Cloud Computing (CS677)
 
 **Course:** CS677 Cloud Computing — NJIT  
 **Tools:** Python, PySpark, Apache Spark, AWS S3, Docker, Scikit-learn
